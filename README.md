@@ -9,10 +9,11 @@ This website shows movies and tv series with the info being drawn from the [_The
  
 * The backend is built using NodeJS, ExpressJS and PostgreSQL. User authentication is handled through Passport using a local strategy
 
+
 Goals: 
 - [ ] Managing global state using React-Redux
 - [ ] Managing user authentication using JWT
 - [ ] Migrate to MongoDB
 
-
+[Check it out](https://tmdb-v2.vercel.app/)
  
